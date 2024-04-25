@@ -44,7 +44,11 @@ Throughout this course, you’ll cover everything from the basics to the latest 
 An introduction to visualizing what matrices are really doing.
 - **Linear Algebra by 3Blue1Brown**: [Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra)
 
-### Step 2: Mathematics for Machine Learning
+### Step 2: Neural Networks with 3Blue1Brown
+The basics of neural networks, and the math behind how they learn.
+- **Neural Networks by 3Blue1Brown**: [Neural Networks](https://www.3blue1brown.com/topics/neural-networks)
+
+### Step 3: Mathematics for Machine Learning
 _"We wrote a book on Mathematics for Machine Learning that motivates people to learn mathematical concepts. The book is not intended to cover advanced machine-learning techniques because there are already plenty of books doing this. Instead, we aim to provide the necessary mathematical skills to read those other books."_
 - **Book issued by Cambridge University**: [MFML](https://mml-book.github.io/)
 
