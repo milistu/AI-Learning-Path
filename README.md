@@ -40,8 +40,12 @@ Throughout this course, you’ll cover everything from the basics to the latest 
 
 ## Deeper Understanding
 
-### Step 1: Mathematics for Machine Learning
-> We wrote a book on Mathematics for Machine Learning that motivates people to learn mathematical concepts. The book is not intended to cover advanced machine-learning techniques because there are already plenty of books doing this. Instead, we aim to provide the necessary mathematical skills to read those other books.
+### Step 1: Linear Algebra with 3Blue1Brown
+An introduction to visualizing what matrices are really doing.
+- **Linear Algebra by 3Blue1Brown**: [Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra)
+
+### Step 2: Mathematics for Machine Learning
+_"We wrote a book on Mathematics for Machine Learning that motivates people to learn mathematical concepts. The book is not intended to cover advanced machine-learning techniques because there are already plenty of books doing this. Instead, we aim to provide the necessary mathematical skills to read those other books."_
 - **Book issued by Cambridge University**: [MFML](https://mml-book.github.io/)
 
 This learning path is designed to build your knowledge progressively, equipping you with the necessary skills to become a proficient Machine Learning Engineer. Good luck on your journey!
